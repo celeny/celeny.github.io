@@ -1,7 +1,7 @@
 
 body {
     margin: 60px auto;
-    width: 70%;
+    width: 50%;
 }
 nav ul, footer ul {
     font-family:'Georgia', 'Courier', 'Courier New';
@@ -11,7 +11,7 @@ nav ul, footer ul {
 }
 nav ul li, footer ul li {
     display: inline;
-    margin-right: 20px;
+    margin-right: 50px;
 }
 a {
     text-decoration: none;
@@ -41,4 +41,12 @@ ul.posts {
 
 ul.posts li {
     list-style: none;
+}
+
+.box {
+  width: 320px;
+  padding: 50px;
+  border: 5px solid #CC8B86;
+  margin: 0; 
+    background: #D1BE9C;
 }

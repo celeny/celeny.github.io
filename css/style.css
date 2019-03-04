@@ -43,7 +43,7 @@ ul.posts li {
     list-style: none;
 }
 
-.box {
+.box1 {
    height: 200px;
   width: 320px;
   padding: 50px;
@@ -51,4 +51,34 @@ ul.posts li {
   margin: 0; 
     background: #ffabcd;
     position:absolute; left:80px;top:100px;"
+}
+
+.box2{
+   height: 200px;
+  width: 320px;
+  padding: 50px;
+  border: 5px solid #000000;
+  margin: 0; 
+    background: #ff9e4d;
+    position:absolute; left:80px;top:500px;"
+}
+
+.box3 {
+   height: 200px;
+  width: 320px;
+  padding: 50px;
+  border: 5px solid #000000;
+  margin: 0; 
+    background: #ff987e;
+    position:absolute; left:680px;top:100px;"
+}
+
+.box4 {
+   height: 200px;
+  width: 320px;
+  padding: 50px;
+  border: 5px solid #000000;
+  margin: 0; 
+    background: #ffb1b5;
+    position:absolute; left:80px;top:500px;"
 }

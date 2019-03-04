@@ -46,7 +46,7 @@ ul.posts li {
 .box {
   width: 320px;
   padding: 50px;
-  border: 5px solid #CC8B86;
+  border: 5px solid #000000;
   margin: 0; 
-    background: #D1BE9C;
+    background: #ffabcd;
 }
